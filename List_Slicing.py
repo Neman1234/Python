@@ -16,3 +16,4 @@ answer= numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4]
 print(answer)
 
 #print one item in the list
+print(friends[4])
