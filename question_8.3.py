@@ -1,5 +1,2 @@
-#create list
-colors=["red","green","blue","yellow"]
-
-#slice list
-print(colors[1:4])
+nums=(1,2,3,4,5,6,7,8,9,10)
+nums.insert

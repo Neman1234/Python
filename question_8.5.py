@@ -1,9 +1,5 @@
-#craete list
-marks=[90,80,70,60,50,40]
+#create list
+a=(7,0,8,0,0,9)
 
-#print every second item
-print(marks[1])
-print(marks[3])
-print(marks[5])
-
-#there is a error
+#count how many zeros are in the list
+print(a.count(0))

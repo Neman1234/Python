@@ -1,8 +1,8 @@
-#create lists and variables
-data=[1,2,3,4,5]
+#create list
+numbers=[1,2,3,4,5]
 
-#reverse list
-data.reverse()
+#add numbers
+answer=numbers[0] + numbers[1] + numbers[2] + numbers[3] + numbers[4]
 
-#print the updated data list
-print(data)
+#print answer
+print(answer)
