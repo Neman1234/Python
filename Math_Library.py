@@ -11,3 +11,5 @@ print(math.sqrt(num))
 print(math.factorial(5))
 print(math.fabs(-5.5))
 print(math.gcd(209,508))
+
+#Class 22 code
