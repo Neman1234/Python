@@ -1,0 +1,6 @@
+tp = (1,2)
+print(tp)
+tp = list(tp)
+tp.append("Neel")
+tp = tuple(tp)
+print(tp)
